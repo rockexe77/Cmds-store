@@ -11,8 +11,14 @@
       "author": "MahMUD",
       "update": "17/10/2024",
       "status": "on"
+    },
+    {
+ "cmd": "morse_goat",
+      "author": "Leon",
+      "update": "17/10/2024",
+      "status": "on"
 
-    }
-      
-  ]
+  {
+
+    ]
 }
