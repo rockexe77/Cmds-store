@@ -1,11 +1,17 @@
 {
   "cmdName": [
     {
-      "cmd": "naruto_id_goat",
+      "cmd": "naruto-goat",
       "author": "MahMUD",
       "update": "17/10/2024",
       "status": "on"
-    }
+    },
+    {
+"cmd": "ckban-goat",
+      "author": "MahMUD",
+      "update": "17/10/2024",
+      "status": "on"
 
+      
   ]
 }
