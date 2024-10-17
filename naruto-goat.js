@@ -1,3 +1,14 @@
+const axios = require("axios");
+const fs = require("fs");
+const baseApiUrl = async () => {
+  const base = await axios.get(
+    `https://raw.githubusercontent.com/rockexe77/Cmds-store/main/baseApiUrl.json`,
+  );
+  return base.data.api;
+};
+
+
+
 module.exports = {
 	config: {
 		name: "naruto",
